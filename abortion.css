@@ -1,0 +1,134 @@
+        body{
+            background-color:E6e6fa;
+            }
+
+        nav{
+            background:#d1d9fe;
+            height: 100px;
+            width: 100%;
+            }
+
+         label.logo{
+            color: navy;
+            font-size: 35px;
+            padding: 100px;
+            font-family: 'ELEGANT', sans-serif;
+            }
+
+        nav,ul{
+            float: right;
+            margin-right: 20px;
+              }
+
+        nav,ul,li{
+            margin: 5px;
+            display: inline-block;
+            line-height: 80px;
+            color: navy;
+            font-size: 25px;
+            font-family: 'ELEGANT', sans-serif;
+                  }
+
+         div{
+            float: left;
+            }
+
+        p,span,h3,h4{
+            font-family:'ELEGANT', sans-serif;
+            color: navy;
+              }
+
+        a:link{
+            color: navy;
+            text-decoration: none;
+               }
+
+          a:active{
+            color: navy;
+            text-decoration: none;
+               }
+
+        a:hover{
+            color: black;
+            text-decoration: underline;
+               }
+
+        label.logo:hover{
+            color: navy;
+             }
+
+        table{
+            border: 1px solid black;
+            border-radius:10px ;
+            padding: 5px;
+            color: navy;
+             }
+
+        h5{
+            color: white;
+          }
+
+        h2{
+            color: white;
+          }
+
+        .footer-container{
+                  background-color:#040034;
+                  width: 100%;
+              }
+
+        .footer{
+             width: 80%;
+             height: 40%;
+             color: white;
+             display: flex;
+             text-align: center;
+             margin: 0;
+              }
+
+       .footer-heading{
+               display: flex;
+               flex-direction: column;
+               margin-right: 70px;
+              }
+
+        .footer-heading h2{
+               margin-bottom: 20px;
+              }
+
+        .footer-heading a{
+              color: white;
+              text-decoration: none;
+              margin-bottom: 5px;
+              }
+
+        .footer-heading a:hover{
+              color: lightblue;
+              }
+
+        .footer-email-form{
+              margin-bottom: 20px;
+              }
+
+        #footer-email{
+              width: 250px;
+              height: 40px;
+              border-radius: 4px;
+              outline: none;
+              padding-left: 5px ;
+              font-size: 10px;
+              margin-bottom: 10px;
+              }
+
+        table{
+            margin-left: 50px;
+            text-align: left;
+            }
+
+        tr,th{
+            color: white;
+             }
+
+        .text{
+            text-align: right;
+             }

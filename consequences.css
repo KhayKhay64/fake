@@ -1,0 +1,132 @@
+        body{
+            background-color:E6e6fa;
+           }
+
+        nav{
+            background:#d1d9fe;
+            height: 100px;
+            width: 100%;
+           }
+
+         label.logo{
+            color: navy;
+            font-size: 35px;
+            padding: 0 100px;
+            font-family: 'ELEGANT', sans-serif;
+           }
+
+        a:link{
+            color: navy;
+            text-decoration: none;
+           }
+
+          a:active{
+            color: navy;
+            text-decoration: none;
+           }
+
+        a:hover{
+            color: black;
+            text-decoration: underline;
+           }
+
+         nav,ul{
+            float: right;
+            margin-right: 20px;
+           }
+
+        nav,ul,li{
+            margin: 0 5px;
+            display: inline-block;
+            line-height: 80px;
+            color: purple;
+            font-size: 25px;
+            font-family: 'ELEGANT', sans-serif;
+           }
+
+        p,h1{
+            font-family:'ELEGANT', sans-serif;
+            color: navy;
+            text-align: left;
+           }
+
+         div{
+            float: left;
+            padding-right: 25px;
+           }
+
+       h2{
+         text-align: left;
+          }
+
+        .footer-container{
+                  background-color:#040034;
+                  width: 100%;
+              }
+
+        .footer{
+             width: 80%;
+             height: 40%;
+             color: white;
+             display: flex;
+             text-align: center;
+             margin: 0;
+              }
+
+       .footer-heading{
+               display: flex;
+               flex-direction: column;
+               margin-right: 90px;
+               margin-left: 10px;
+              }
+
+        .footer-heading h2{
+            margin-left: 10px;
+               margin-bottom: 20px;
+              }
+
+        .footer-heading a{
+              color: white;
+              text-decoration: none;
+              margin-bottom: 5px;
+              }
+
+        .footer-heading a:hover{
+              color: lightblue;
+              }
+
+        .footer-email-form{
+              margin-bottom: 20px;
+              }
+
+        #footer-email{
+              width: 250px;
+              height: 40px;
+              border-radius: 4px;
+              outline: none;
+              padding-left: 5px ;
+              font-size: 10px;
+              margin-bottom: 10px;
+              }
+
+        .text{
+            text-align: right;
+             }
+
+        h5{
+            color: white;
+
+            }
+            
+        table,tr,th{
+            border: 2px solid navy;
+            border-collapse: collapse;
+            color: navy;
+            width: 100%;
+            padding: 15px;
+            text-align: left;
+            }
+
+        tr:hover{
+            background-color: lightblue;
+          }
